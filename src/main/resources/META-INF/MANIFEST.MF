@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot AutoConfigure
+Automatic-Module-Name: spring.boot.autoconfigure
+Implementation-Version: 2.0.5.RELEASE
+Built-By: Spring
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_141
+
